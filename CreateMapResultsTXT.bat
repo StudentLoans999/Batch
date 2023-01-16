@@ -1,3 +1,5 @@
+REM * This file is found here: \\ABC-app01\Public\Batch
+
 @echo off
 title CreateMapResultsTXT.bat
 echo This script will create the CreateMapResults.txt file (which is used by GenerateAndConvertAndUploadMapResultsLog.ps1)
