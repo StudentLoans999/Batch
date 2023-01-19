@@ -1,4 +1,4 @@
-REM * This file is found here: \\ABC-app01\Public\Batch
+REM * This script creates a TXT file, this script is located here: \\ABC-app01\Public\Batch
 
 @echo off
 title CreateMapResultsTXT.bat
